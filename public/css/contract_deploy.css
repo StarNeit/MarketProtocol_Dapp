@@ -1,0 +1,19 @@
+.main_title{
+    text-align: center;
+}
+
+.input_title{
+    padding-top: 7px;
+}
+
+.form_contract_deploy{
+    margin-top: 40px;
+}
+
+.form_contract_deploy > .row{
+    margin-bottom: 15px;
+}
+
+.form_contract_deploy .btn_deploy{
+    margin-top: 20px;
+}
