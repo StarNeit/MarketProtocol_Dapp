@@ -6,3 +6,6 @@ Decentralized blockchain applications utilizing the Market Protocol
 ``npm install``
 2. Run project
 ``node Server.js``
+
+## Deployed Dapp
+``https://market-dapp.herokuapp.com/``
