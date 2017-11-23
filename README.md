@@ -5,4 +5,4 @@ Decentralized blockchain applications utilizing the Market Protocol
 1. Install dependencies:
 ``npm install``
 2. Run project
-``node server.js``
+``node Server.js``

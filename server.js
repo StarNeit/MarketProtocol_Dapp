@@ -51,6 +51,6 @@ router.get("/trading",function(req,res){
 
 app.use("/",router);
 
-app.listen(3000,function(){
-    console.log("Live at Port 3000");
+app.listen(process.env.PORT || 8919,function(){
+    console.log("Live at Port 8919");
 });
